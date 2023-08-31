@@ -1,0 +1,21 @@
+body{
+    background-color:grey;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+}
+
+button{
+    background:palegreen;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#display{
+    border: none;
+    border-radius: 2px;
+}
