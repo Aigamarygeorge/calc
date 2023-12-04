@@ -26,3 +26,4 @@ function divide() {
         document.getElementById("result").innerText = "Cannot divide by zero";
     }
 }
+
